@@ -1,0 +1,62 @@
+
+body {
+  background-color: #572817; 
+  font-family: 'Patrick Hand', cursive; 
+  color: #4e3627; 
+}
+
+.cartel-bienvenidos {
+  background-color: #c8b89e; 
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px; 
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+h1 {
+  color: #3e2e29; 
+  margin: 0;
+}
+
+.input-group .form-control {
+  border: 2px solid #3e2e29; 
+  background-color: #fdf1e7; 
+  color: #3e2e29;
+}
+
+.input-group .form-control::placeholder {
+  color: #a27c67; 
+}
+
+.btn-outline-secondary {
+  background-color: #3e2e29; 
+  color: #eae0d2;
+  border: none; 
+  transition: background-color 0.3s ease;
+}
+
+.btn-outline-secondary:hover {
+  background-color: black; 
+}
+
+.card {
+  background-color: #eae0d2;
+    border: 1px solid #7b6248;
+  border-radius: 15px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05); 
+}
+
+.card-title {
+  font-weight: bold;
+  color: #4e3627;
+}
+
+.card-text {
+  color: #4e3627;
+}
+
